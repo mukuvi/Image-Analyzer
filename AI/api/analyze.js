@@ -1,4 +1,3 @@
-// api/analyze.js
 import formidable from "formidable";
 import { promises as fs } from "fs";
 import fetch from "node-fetch";
